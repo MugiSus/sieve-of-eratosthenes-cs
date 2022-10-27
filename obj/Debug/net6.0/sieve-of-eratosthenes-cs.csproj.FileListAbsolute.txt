@@ -1,0 +1,15 @@
+/Users/mugisus/Documents/GitHub/sieve-of-eratosthenes-cs/bin/Debug/net6.0/sieve-of-eratosthenes-cs
+/Users/mugisus/Documents/GitHub/sieve-of-eratosthenes-cs/bin/Debug/net6.0/sieve-of-eratosthenes-cs.deps.json
+/Users/mugisus/Documents/GitHub/sieve-of-eratosthenes-cs/bin/Debug/net6.0/sieve-of-eratosthenes-cs.runtimeconfig.json
+/Users/mugisus/Documents/GitHub/sieve-of-eratosthenes-cs/bin/Debug/net6.0/sieve-of-eratosthenes-cs.dll
+/Users/mugisus/Documents/GitHub/sieve-of-eratosthenes-cs/bin/Debug/net6.0/sieve-of-eratosthenes-cs.pdb
+/Users/mugisus/Documents/GitHub/sieve-of-eratosthenes-cs/obj/Debug/net6.0/sieve-of-eratosthenes-cs.csproj.AssemblyReference.cache
+/Users/mugisus/Documents/GitHub/sieve-of-eratosthenes-cs/obj/Debug/net6.0/sieve-of-eratosthenes-cs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mugisus/Documents/GitHub/sieve-of-eratosthenes-cs/obj/Debug/net6.0/sieve-of-eratosthenes-cs.AssemblyInfoInputs.cache
+/Users/mugisus/Documents/GitHub/sieve-of-eratosthenes-cs/obj/Debug/net6.0/sieve-of-eratosthenes-cs.AssemblyInfo.cs
+/Users/mugisus/Documents/GitHub/sieve-of-eratosthenes-cs/obj/Debug/net6.0/sieve-of-eratosthenes-cs.csproj.CoreCompileInputs.cache
+/Users/mugisus/Documents/GitHub/sieve-of-eratosthenes-cs/obj/Debug/net6.0/sieve-of-eratosthenes-cs.dll
+/Users/mugisus/Documents/GitHub/sieve-of-eratosthenes-cs/obj/Debug/net6.0/refint/sieve-of-eratosthenes-cs.dll
+/Users/mugisus/Documents/GitHub/sieve-of-eratosthenes-cs/obj/Debug/net6.0/sieve-of-eratosthenes-cs.pdb
+/Users/mugisus/Documents/GitHub/sieve-of-eratosthenes-cs/obj/Debug/net6.0/sieve-of-eratosthenes-cs.genruntimeconfig.cache
+/Users/mugisus/Documents/GitHub/sieve-of-eratosthenes-cs/obj/Debug/net6.0/ref/sieve-of-eratosthenes-cs.dll
