@@ -29,9 +29,9 @@ class SieveOfEratosthenesUint {
     }
 
     public ulong CountPrimes() {
-        uint count = 0;
+        ulong count = 0;
         for (ulong i = 0; i < (ulong)Sieve.Length; i++)
-            count += (uint)BitOperations.PopCount(Sieve[i]);
+            count += (ulong)BitOperations.PopCount(Sieve[i]);
         return Length - count + 1;
     }
 
