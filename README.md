@@ -6,8 +6,8 @@ This is a simple implementation of the Sieve of Eratosthenes in C#.
 
 ### Console
 ```
-[uint]  sieved 1 in 0.139 ms, found 1 primes
-[ulong] sieved 1 in 227.119 ms, found 1 primes
+[uint]  sieved 1 in 227.119 ms, found 1 primes
+[ulong] sieved 1 in 0.139 ms, found 1 primes
 [uint]  sieved 2 in 0 ms, found 1 primes
 [ulong] sieved 2 in 0.001 ms, found 1 primes
 [uint]  sieved 4 in 0.001 ms, found 1 primes
